@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "d7307cf4-6e98-4bdd-a3cb-336fdd6c8dad",
+      "name": "Me",
+      "description": "Some great things",
+      "element": "fire"
+    },
+    {
+      "id": "d3898112-798f-4702-b255-bb917cc25ba5",
+      "name": "Test",
+      "description": "testing things",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "all",
+      "btn_color": "outline-dark",
+      "name": "Все"
+    },
+    {
+      "slug": "fire",
+      "btn_color": "danger",
+      "name": "Огонь"
+    },
+    {
+      "slug": "water",
+      "btn_color": "primary",
+      "name": "Вода"
+    },
+    {
+      "slug": "wind",
+      "btn_color": "success",
+      "name": "Ветер"
+    },
+    {
+      "slug": "earth",
+      "btn_color": "secondary",
+      "name": "Земля"
+    }
+  ]
+}
